@@ -7,3 +7,4 @@
 - [ ] Limpar o quarto
 - [ ] Fazer exercício
 - [ ] Ler um livro
+- [ ] Organizar a estante
